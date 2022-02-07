@@ -1,6 +1,6 @@
-*Football
-*Food
-*Outdoors
-*Entertainment
-  *Music
-  *Movies
+* Football
+* Food
+* Outdoors
+* Entertainment
+  * Music
+  * Movies
